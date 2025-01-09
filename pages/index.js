@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="FUCKBOOK" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          ccccc <code>pages/index.js</code>
         </p>
       </main>
 
